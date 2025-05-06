@@ -1,7 +1,3 @@
-Here’s a detailed explanation you can use for your GitHub README that describes your project **"Google's CacheSack - Cache Admission Simulator"**, the theme, the code structure, and its relevance in real-world **Information-Centric Networking (ICN)** applications.
-
----
-
 ## 📦 Google's CacheSack - Cache Admission Simulator
 
 ### 🌐 Project Theme
@@ -131,7 +127,3 @@ Uses the publicly available [TMDB 5000 Movie Dataset](https://www.kaggle.com/dat
 * Add support for other cache strategies (LRU, ARC, etc.)
 * Simulate distributed caching across multiple nodes.
 * Integrate visualization graphs for hit/miss statistics.
-
----
-
-Would you like help formatting this into Markdown and adding it to your GitHub repo?
